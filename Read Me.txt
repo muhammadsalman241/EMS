@@ -1,0 +1,24 @@
+			EMPLOYEE MANAGMENT SYSTEM
+BY
+
+MUHAMMAD SALMAN 2K16/SWE/48 MORNING
+ARSLAN AHMED 	2K16/SWE/09 MORNING
+SUNNY ANDANI 	2K16/SWE/85 MORNING
+
+Details:
+Create_User.sql
+		contain create user query.
+EMS_Connection.xml
+		A XML file contain Oracle connection details, you can use this using connection import option.
+		Encryption key: 123
+		User Name: EMS
+		PAssword: EMS123
+Create_Table.sql
+		Query to make employee managment system database.
+Insert_First_data.sql
+		a first row we need to insert.
+EMS NetBeansProject.zip
+		A NetBeans project, you can use this project in NetBeans using 'import project from ZIP'.
+Folder Direct Run contain
+						Executeable Jar file of project.
+
